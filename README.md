@@ -7,6 +7,11 @@ An e-commerce app which allows users to buy and sell items.
 ```
 git clone https://github.com/Frostday/Shop-App.git
 ```
+* In the same directory run the following commands(considering you have flutter installed and an android device connected)
+```
+flutter packages get
+flutter run
+```
 
 ### Preview
 
