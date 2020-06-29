@@ -1,11 +1,11 @@
-# Recipes App
-An app which contains recipes on how to cook several dishes from many different types of cuisines
+# MyShop App
+An e-commerce app which allows users to buy and sell items.
 
 ### Installation and Setup
 
 * Fork the repo and clone it.
 ```
-git clone https://github.com/Frostday/Recipes-App.git
+git clone https://github.com/Frostday/Shop-App.git
 ```
 
 ### Preview
