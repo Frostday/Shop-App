@@ -15,3 +15,4 @@ git clone https://github.com/Frostday/Shop-App.git
 | ![](assets/images/4.jpeg) | ![](assets/images/5.jpeg) | ![](assets/images/8.jpeg) |
 |:--------------------------|:--------------------------|:--------------------------|
 | ![](assets/images/7.jpeg) |                           |                           |
+|:--------------------------|:--------------------------|:--------------------------|
